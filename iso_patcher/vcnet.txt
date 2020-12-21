@@ -1,0 +1,3 @@
+"c:\program files\nasm\nasm.exe" -f win32 -o "$(inputpath)".obj "$(inputpath)"
+
+$(inputpath).obj
